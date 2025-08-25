@@ -102,13 +102,27 @@ This dashboard was designed to answer critical business questions such as:
   - Standardize merchant and purpose categories.  
   - Normalize currencies for consistent reporting.  
 
-### **Step 4 – Data Transformation** 🔄  
-- Created **Age Groups**: 21–25, 26–35, 36–45, 46–59.  
+### **Step 4 – Data Transformation** 🔄   
 - Built **DAX Measures**:  
   - 💳 Total Transaction Amount = ₹20M+  
   - 🔄 Total Transactions = 20K  
   - 💰 Average Transaction = ₹994  
-  - ✅ Success Rate = 80%  
+  - ✅ Success Rate = 80%
+ 
+---
+
+### 👥 Customer Segmentation (Age Groups)  
+
+To better analyze transaction behavior, customers were segmented into age groups:  
+
+- **21–25 (Starters):** Early career, lower spend, exploring digital payments.  
+- **26–35 (Young Professionals):** Tech-savvy, lifestyle-driven, highest transaction volume (~₹6.9M).  
+- **36–45 (Mid-Career):** Stable income, diversified spending across shopping, travel, and family needs.  
+- **46–59 (Mature Consumers):** Experienced users, steady spending, preference for essentials and bill payments.  
+
+📊 *This segmentation allowed for targeted analysis of spending behavior by life stage.*  
+
+---
 
 ### **Step 5 – Dashboard Design & Visuals** 📊  
 - **KPI Cards** – Key metrics (Amount, Count, Avg, Success %).  
