@@ -2,6 +2,10 @@
 
 ### Comprehensive Insights into Customer Behavior, Payment Patterns, and Merchant Performance  
 
+### 🔗 Dashboard Link: *(https://app.powerbi.com/view?r=eyJrIjoiZDVlODA0OGEtNjQwMy00ZTY5LTg2OTktMjgzNjM2MzI1OGJiIiwidCI6IjEzOWQ5NmE0LWUxMzktNDZkMy05MDkwLTU0ZDMxNTBlM2NhMiJ9)*  
+
+---
+
 ![Dashboard Preview](https://github.com/user-attachments/assets/385c50ff-dcd4-4321-bcb3-74a351a2af5d) 
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/869e5187-a433-4050-bd50-d2493c6f0828)
